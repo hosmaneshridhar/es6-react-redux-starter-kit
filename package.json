@@ -1,6 +1,6 @@
 {
   "name": "es6-react-redux-starter-kit",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Starter kit for building react applications using redux framework",
   "main": "src/index.js",
   "scripts": {
