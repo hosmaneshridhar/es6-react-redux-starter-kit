@@ -1,0 +1,25 @@
+{
+  "name": "es6-react-redux-starter-kit",
+  "version": "1.0.0",
+  "description": "Starter kit for building react applications using redux framework",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hosmaneshridhar/es6-react-redux-starter-kit.git"
+  },
+  "keywords": [
+    "es6",
+    "react",
+    "redux",
+    "starter-kit"
+  ],
+  "author": "Hosmane Shridhar <hosmaneshridhar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hosmaneshridhar/es6-react-redux-starter-kit/issues"
+  },
+  "homepage": "https://github.com/hosmaneshridhar/es6-react-redux-starter-kit#readme"
+}
